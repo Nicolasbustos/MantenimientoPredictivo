@@ -49,3 +49,7 @@ pip install -r requirements.txt
     ```bash
     jupyter notebook Etapa1.ipynb
     ```
+
+## Contacto
+* Nicolás Bustos Bilbao
+*  nbustosbilbao@gmail.com
